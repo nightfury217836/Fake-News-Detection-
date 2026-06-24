@@ -2,6 +2,7 @@
 
 <img width="1280" height="720" alt="SQL_Thumbnail - 2026-06-05T041926 764" src="https://github.com/user-attachments/assets/34e8ff51-6575-4cc6-8135-68aaf21dd427" />
 
+YouTube Link: https://youtu.be/ekwZaBKsDz4?si=4IIdIsjKOigWfxEg
 
 Ever wondered how Artificial Intelligence can analyze News Articles and detect possible Misinformation or Fake news in real time?  
 
